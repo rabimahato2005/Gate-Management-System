@@ -84,7 +84,7 @@ public class GateManagementSystem {
         try {
             String url = "jdbc:mysql://localhost:3306/gate_system";
             String user = "root";
-            String password = "Rabi9745@?";
+            String password = "...";
 
             con = DriverManager.getConnection(url, user, password);
             System.out.println("✅ Database Connected Successfully!");
